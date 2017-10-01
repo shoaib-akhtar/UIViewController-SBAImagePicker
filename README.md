@@ -25,11 +25,9 @@ Usage
 ```
 
 ```obj
-
 	[self showImagePickerControlerWithTitle:@"SBAImagePicker" cameraTitle:@"Capture with camera" libraryTitle:@"Pick from library" cancel:@"Cancel" allowEditing:false block:^(id image) {
         // Do whatever you want to do with image
     }];
-
 ```
 
 ![](https://preview.ibb.co/mG8S6G/Simulator_Screen_Shot_01_Oct_2017_3_42_24_PM.png)
