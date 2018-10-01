@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "UIViewController+SBAImagePicker"
   s.version      = "1.1"
-  s.summary      = "SBAImagePicker is light weight extension of UIViewController. With the help of SBAImagePicker you can now easily capture image from camera or gallery in a simple block based implementation."
+  s.summary      = "With the help of SBAImagePicker you can now easily capture image from camera or gallery in a simple block based implementation."
   s.homepage     = "https://github.com/shoaib-akhtar/UIViewController-SBAImagePicker"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Shoaib Akhtar" => "shoaib.akhtar1@live.com" }
